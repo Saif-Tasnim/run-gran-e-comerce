@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "productName": "Wtach",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/1_A.webp",
+        "productPrice": 19.99,
+        "productDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "productColor": "Black"
+    },
+    {
+        "id": 2,
+        "productName": "Hand Gloves",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/2_A.webp",
+        "productPrice": 29.99,
+        "productDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "productColor": "Blue"
+    },
+    {
+        "id": 3,
+        "productName": "Water bottle",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/4_A.webp",
+        "productPrice": 39.99,
+        "productDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "productColor": "Green"
+    },
+    {
+        "id": 4,
+        "productName": "Back Pack",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/4_A_1.webp",
+        "productPrice": 49.99,
+        "productDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "productColor": "Black"
+    },
+    {
+        "id": 5,
+        "productName": "Shoes For Men",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/long%20front.webp",
+        "productPrice": 59.99,
+        "productDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "productColor": "Purple"
+    },
+    {
+        "id": 6,
+        "productName": "Shoes",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/Mockup.webp",
+        "productPrice": 69.99,
+        "productDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "productColor": "Orange"
+    },
+    {
+        "id": 7,
+        "productName": "Shoes",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/Pink.webp",
+        "productPrice": 79.99,
+        "productDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "productColor": "Pink"
+    },
+    {
+        "id": 8,
+        "productName": "Shoes For Men",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/V1.webp",
+        "productPrice": 89.99,
+        "productDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "productColor": "Silver"
+    },
+    {
+        "id": 9,
+        "productName": "Shoes",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/V2.webp",
+        "productPrice": 99.99,
+        "productDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "productColor": "Gold"
+    },
+    {
+        "id": 10,
+        "productName": "Shoes For Men",
+        "imageUrl": "https://www.khejurbd.net/dl-custom/WISD.webp",
+        "productPrice": 109.99,
+        "productDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "productColor": "Black"
+    }
+]
